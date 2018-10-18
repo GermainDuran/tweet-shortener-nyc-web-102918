@@ -1,6 +1,6 @@
 # Write your code here.
 def dictionary
-  convert = {
+  replace = {
    "hello" => "hi",
    "to" => "2",
    "two" => "2",
